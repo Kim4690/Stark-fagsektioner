@@ -23,8 +23,8 @@ var words = [
 var banner = document.createElement("div");
 
 banner.style.width = "100%";
-banner.style.maxWidth = "980px";
-banner.style.aspectRatio = "980/540";
+banner.style.maxWidth = "1920px";
+banner.style.aspectRatio = "1920/600";
 banner.style.position = "relative";
 banner.style.overflow = "hidden";
 banner.style.cursor = "pointer";
@@ -102,7 +102,7 @@ opacity:1;
 
 </style>
 
-<img class="stark-bg" src="https://kim4690.github.io/STARK_fagsektioner/billed.jpg">
+<img class="stark-bg" src="https://kim4690.github.io/STARK fagsektioner/billed.jpg">
 
 <div id="wordContainer"></div>
 
