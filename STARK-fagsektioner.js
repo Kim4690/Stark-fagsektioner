@@ -102,7 +102,7 @@ opacity:1;
 
 </style>
 
-<img class="stark-bg" src="https://kim4690.github.io/STARK fagsektioner/billed.jpg">
+<img class="stark-bg" src="https://kim4690.github.io/STARK-fagsektioner/billed.jpg">
 
 <div id="wordContainer"></div>
 
